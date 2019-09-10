@@ -17,7 +17,7 @@
 
 2. Una vez creada la estructura de las páginas diseñe un estilo personalizado utilizando CSS. A todos los elementos del documento se deberá aplicar algún estilo.
 
-**NOTA:** Para las estructuras HTML de los documentos puede utilizar los generados en la Tarea 01 Elementos Básicos de HTML.
+**NOTA:** Para las estructuras HTML de los documentos puede utilizar los generados en la _Tarea 01 Elementos Básicos de HTML._
 
 ## Ejercicio 01 Perfíl Personal o Currículum
 
